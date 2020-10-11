@@ -1,4 +1,0 @@
-Pearson's Correlation of subjects Math and Chemistry are: 
-====================================
-Pearson's Correlation   | -0.05843    |
-====================================
