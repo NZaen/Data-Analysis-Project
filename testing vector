@@ -1,0 +1,5 @@
+for(int i=0;i<overtitles.size();i++){
+        for(int j=0;j<overtitles[i].size();j++)
+            cout<<overtitles[i][j] << " ";
+        cout<<endl;
+    }   

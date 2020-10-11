@@ -1,0 +1,4 @@
+Linear Regression of subjects Math and Chemistry are: 
+====================================
+y' = 68.9444 + -1.25323e-19x
+====================================
